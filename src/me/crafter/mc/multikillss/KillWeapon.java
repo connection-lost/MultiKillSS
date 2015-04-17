@@ -1,4 +1,4 @@
-package me.crafter.mc.multikills;
+package me.crafter.mc.multikillss;
 
 import java.io.File;
 import java.io.FileReader;

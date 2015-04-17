@@ -1,10 +1,14 @@
-name: MultiKillS
-main: me.crafter.mc.multikills.MultiKillS
-version: 2.4
+name: MultiKillSS
+main: me.crafter.mc.multikillss.MultiKillSS
+version: 3.0
 description: >
-             Killing Spree! S!
+             Killing Spree plugin, custom death messages.
 commands:
    iteminfos:
-      permission: multikills.iteminfo
+      permission: multikillss.basic
       usage: |
-         /iteminfos (wip feature)
+         /iteminfos
+   mkdebug:
+      permission: multikillss.admin
+      usage: |
+         /mkdebug

@@ -1,4 +1,4 @@
-package me.crafter.mc.multikills;
+package me.crafter.mc.multikillss;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
