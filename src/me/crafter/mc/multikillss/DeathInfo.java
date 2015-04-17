@@ -1,8 +1,6 @@
 package me.crafter.mc.multikillss;
 
 import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
-//import org.bukkit.craftbukkit.v1_7_R1.entity.CraftLargeFireball;
 import org.bukkit.entity.Arrow;
 import org.bukkit.entity.Blaze;
 import org.bukkit.entity.CaveSpider;
